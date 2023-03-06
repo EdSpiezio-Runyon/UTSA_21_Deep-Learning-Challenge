@@ -130,3 +130,5 @@ dmypy.json
 
 .git
 .gitignore
+/untitled_project
+/Extraneous_files
